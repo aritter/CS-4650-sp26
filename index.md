@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CS 7650
+title: CS 4650
 nav_exclude: true
 seo:
   type: Course
