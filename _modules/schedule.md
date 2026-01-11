@@ -2,13 +2,15 @@
 title: Schedule
 ---
 
-Jan 6
+Jan 12
 : [Course Introduction](https://github.com/aritter/CS-7650-sp25/raw/master/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Jan 8
+Jan 14
 : [Machine Learning](https://github.com/aritter/CS-7650-sp25/raw/master/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+<!--
 
 Jan 15
 : [Machine Learning (multi-class) ](https://aritter.github.io/CS-7650-sp25/slides/lec3-mcc.pdf)
@@ -69,8 +71,6 @@ Apr 14
 
 Apr 16 (2pm)
 : Guest Lecture by [Elizabeth Clark](https://eaclark07.github.io/) (Google AI).  See announcement on Piazza for Zoom link.
-
-<!--
 
 Nov 20
 : Mike Lewis Guest Lecture (Note: this is not at the usual time or location - see announcement on Piazza)
