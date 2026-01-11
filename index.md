@@ -19,9 +19,9 @@ seo:
 
 - Location: Instructional Center 103
 - Time: MW 5:00 pm - 6:15 pm
-- [Piazza](https://piazza.com/gatech/spring2025/cs7650/) (announcements, questions, discussion)
-- [Gradescope](https://www.gradescope.com/courses/939711) (homework assignments, submission and grading)
-- [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/1LcEgP8g4MIU6f6DVFDcrTk1ppK7R-o5Ls1n8n8orfnw/edit?usp=sharing)
+- [Piazza](https://piazza.com/class/mka8lvm0fhc57y/) (announcements, questions, discussion)
+- [Gradescope](https://www.gradescope.com/courses/1221171) (homework assignments, submission and grading)
+- [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/1LcEgP8g4MIU6f6DVFDcrTk1ppK7R-o5Ls1n8n8orfnw/edit?usp=sharing):
 
 {% for module in site.modules %}
 {{ module }}
