@@ -1,6 +1,6 @@
 ---
 name: Hyungjoo Chae
-role: TA
+role: Teaching Assistant
 email: hchae36@gatech.edu
 website: https://hyungjoo-homepage.netlify.app/
 photo: 

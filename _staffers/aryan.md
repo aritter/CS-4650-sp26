@@ -1,6 +1,6 @@
 ---
 name: Aryan Shah
-role: TA
+role: Teaching Assistant
 email: ashah626@gatech.edu
 website:
 photo: 

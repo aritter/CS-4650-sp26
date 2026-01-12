@@ -1,6 +1,6 @@
 ---
 name: Ray Yang
-role: TA
+role: Teaching Assistant
 email: ryang396@gatech.edu
 website: https://99starman.github.io/
 photo: 

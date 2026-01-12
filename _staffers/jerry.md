@@ -1,6 +1,6 @@
 ---
 name: Jerry Zheng
-role: TA
+role: Teaching Assistant
 email: jzheng390@gatech.edu
 website:
 photo: 
