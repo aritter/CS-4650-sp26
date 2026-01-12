@@ -28,8 +28,8 @@ There are two excellent NLP textbooks that are freely available online. Readings
 
 The programming assignments will ask you to implement state-of-the-art natural language processing algorithms using neural networks.  For this purpose we will use [Pytorch](https://pytorch.org/), and you will require access to GPUs.  There are two resources we are recommending for this, the first is [Google Colab](https://research.google.com/colaboratory/faq.html), which provides easy access to GPUs.
 We recommend signing up for [Colab Pro](https://colab.research.google.com/signup) (once you start working on the part of the homework that uses Pytorch).
-This costs $10 / month, which is roughly equivalent to the cost of a textbook over the course of the semester.
-This will provide a better experience working on the homework assignments by giving you access to better GPUs, etc.  We have also arranged for students in this class to have access to GPUs through [PACE/ICE](https://pace.gatech.edu/ice-cluster/) please see the documentation on getting started.  Of course you are welcome to use other GPU resources to complete the assignments if you choose, but we cannot provide support for this.  You will need to submit your code and program output in Jupyter Notebook format that runs on Colab Pro.
+This normally costs $10 / month, but is currently free for students. 
+The Pro version of Colab will provide a much better experience working on the homework assignments by giving you access to better GPUs, etc.  We have also arranged for students in this class to have access to GPUs through [PACE/ICE](https://pace.gatech.edu/ice-cluster/) please see the documentation on getting started.  Of course you are welcome to use other GPU resources to complete the assignments if you choose, but we cannot provide support for this.  You will need to submit your code and program output in Jupyter Notebook format that runs on Colab Pro.
 
 ## Attendance
 
