@@ -19,7 +19,7 @@ seo:
 
 - Location: Howey Physics Room L1
 - Time: MW 5:00 pm - 6:15 pm
-- [Piazza](https://piazza.com/class/mka8lvm0fhc57y/) (announcements, questions, discussion)
+- [Piazza](https://piazza.com/gatech/spring2026/cs4650) (announcements, questions, discussion)
 - [Gradescope](https://www.gradescope.com/courses/1221171) (homework assignments, submission and grading)
 - [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/1fE9szgiX6bivyOehytuioRvNeDQQL63pORwiO1dWN3E/edit?usp=sharing)
 
