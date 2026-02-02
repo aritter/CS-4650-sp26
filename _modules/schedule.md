@@ -20,11 +20,11 @@ Jan 28
 : [Machine Learning (multi-class) ](https://aritter.github.io/CS-4650-sp26/slides/lec3-mcc.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-<!--
-
-Jan 27
+Feb 2
 : [Neural Networks in NLP](https://aritter.github.io/CS-4650-sp26/slides/lec6-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
+
+<!--
 
 Feb 3
 : [Sequence Models](https://aritter.github.io/CS-4650-sp26/slides/lec4-seq1.pdf) 
