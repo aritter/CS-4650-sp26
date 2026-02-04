@@ -10,9 +10,6 @@ Jan 14
 : [Machine Learning](https://github.com/aritter/CS-4650-sp26/raw/master/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Jan 27
-: [Project 0](https://colab.research.google.com/drive/1AC0BWfWFsA4zItqXalK9ZKKTPyzTe83K?usp=sharing) due
-
 Jan 28
 : [Machine Learning (multi-class) ](https://aritter.github.io/CS-4650-sp26/slides/lec3-mcc.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
