@@ -18,11 +18,12 @@ Feb 2
 : [Neural Networks in NLP](https://aritter.github.io/CS-4650-sp26/slides/lec6-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
-<!--
-
-Feb 3
+Feb 9
 : [Sequence Models](https://aritter.github.io/CS-4650-sp26/slides/lec4-seq1.pdf) 
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
+<!--
+
 
 Feb 5
 : [Conditional Random Fields](https://aritter.github.io/CS-4650-sp26/slides/lec5-seq2.pdf)
