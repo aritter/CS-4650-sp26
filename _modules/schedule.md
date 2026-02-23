@@ -30,15 +30,15 @@ Feb 18
 : [Word Embeddings](https://aritter.github.io/CS-4650-sp26/slides/lec7-nn2.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
+Feb 23
+: [Recurrent Neural Networks](https://aritter.github.io/CS-4650-sp26/slides/lec8-nn3.pdf) and [Course Projects](https://aritter.github.io/CS-4650-sp26/slides/course_project.pdf)
+  : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 <!--
 
 
 Feb 12
 : Guest Lecture: [Jacob Andreas](https://www.mit.edu/~jda/) (MIT) - 12pm in the Coda Atrium
-
-Feb 19
-: [Recurrent Neural Networks](https://aritter.github.io/CS-4650-sp26/slides/lec8-nn3.pdf) and [Course Projects](https://aritter.github.io/CS-4650-sp26/slides/course_project.pdf)
-  : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 24
 : [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-4650-sp26/slides/lec9-nn4.pdf) 
