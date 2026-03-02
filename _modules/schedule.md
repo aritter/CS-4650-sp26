@@ -34,15 +34,15 @@ Feb 25
 : [Recurrent Neural Networks](https://aritter.github.io/CS-4650-sp26/slides/lec8-nn3.pdf) and [Course Projects](https://aritter.github.io/CS-4650-sp26/slides/course_project.pdf)
   : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Mar 2
+: [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-4650-sp26/slides/lec9-nn4.pdf) 
+  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 <!--
 
 
 Feb 12
 : Guest Lecture: [Jacob Andreas](https://www.mit.edu/~jda/) (MIT) - 12pm in the Coda Atrium
-
-Feb 24
-: [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-4650-sp26/slides/lec9-nn4.pdf) 
-  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 10
 : [Machine Translation, Encoder-Decoder Networks and Attention](https://aritter.github.io/CS-4650-sp26/slides/lec11-seqseq2.pdf)
