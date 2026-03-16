@@ -42,15 +42,15 @@ Mar 9
 : [Machine Translation, Encoder-Decoder Networks and Attention](https://aritter.github.io/CS-4650-sp26/slides/lec11-seqseq2.pdf)
   : [Eisenstein 18.3 -  18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Mar 16
+: [Pre-training, BERT](https://aritter.github.io/CS-4650-sp26/slides/lec13-bert.pdf)
+  : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+
 <!--
 
 
 Feb 12
 : Guest Lecture: [Jacob Andreas](https://www.mit.edu/~jda/) (MIT) - 12pm in the Coda Atrium
-
-Mar 12
-: [Pre-training, BERT](https://aritter.github.io/CS-4650-sp26/slides/lec13-bert.pdf)
-  : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 Mar 24
 : [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-4650-sp26/slides/lec14-bart_gpt3.pdf)
