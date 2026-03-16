@@ -43,11 +43,14 @@ Mar 9
   : [Eisenstein 18.3 -  18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 16
-: [Pre-training, BERT](https://aritter.github.io/CS-4650-sp26/slides/lec13-bert.pdf)
-  : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+: [Machine Translation (cont), Transformers](https://aritter.github.io/CS-4650-sp26/slides/lec12-mt2.pdf)
+  : [J&M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 <!--
 
+Mar 16
+: [Pre-training, BERT](https://aritter.github.io/CS-4650-sp26/slides/lec13-bert.pdf)
+  : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 Feb 12
 : Guest Lecture: [Jacob Andreas](https://www.mit.edu/~jda/) (MIT) - 12pm in the Coda Atrium
