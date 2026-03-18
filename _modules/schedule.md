@@ -46,11 +46,12 @@ Mar 16
 : [Machine Translation (cont), Transformers](https://aritter.github.io/CS-4650-sp26/slides/lec12-mt2.pdf)
   : [J&M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
-<!--
-
-Mar 16
+Mar 18
 : [Pre-training, BERT](https://aritter.github.io/CS-4650-sp26/slides/lec13-bert.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+
+<!--
+
 
 Feb 12
 : Guest Lecture: [Jacob Andreas](https://www.mit.edu/~jda/) (MIT) - 12pm in the Coda Atrium
