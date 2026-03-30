@@ -50,15 +50,17 @@ Mar 18
 : [Pre-training, BERT](https://aritter.github.io/CS-4650-sp26/slides/lec13-bert.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
-<!--
-
-
-Feb 12
-: Guest Lecture: [Jacob Andreas](https://www.mit.edu/~jda/) (MIT) - 12pm in the Coda Atrium
-
-Mar 24
+Mar 30
 : [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-4650-sp26/slides/lec14-bart_gpt3.pdf)
   : [BART](https://aclanthology.org/2020.acl-main.703.pdf), [T5](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf), [GPT-3](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+
+Apr 6
+: Midterm Exam
+
+Apr 8
+: Guest Lecture: [Jessy Li](https://jessyli.com/) (UT Austin) - 12pm in the Coda Atrium
+
+<!--
 
 Apr 2
 : [Open Source LLMs](https://aritter.github.io/CS-4650-sp26/slides/lec16-open_source_models.pdf)
