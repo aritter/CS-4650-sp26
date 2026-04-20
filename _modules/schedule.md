@@ -60,18 +60,22 @@ Apr 6
 Apr 8
 : Guest Lecture: [Jessy Li](https://jessyli.com/) (UT Austin) - 12pm in the Coda Atrium
 
-<!--
-
-Apr 2
+Apr 15
 : [Open Source LLMs](https://aritter.github.io/CS-4650-sp26/slides/lec16-open_source_models.pdf)
   : [Llama3](https://arxiv.org/pdf/2407.21783)
 
-Apr 9
+Apr 20
 : [Alignment / RLHF](https://aritter.github.io/CS-4650-sp26/slides/lec17-RLHF.pdf)
   : [InstructGPT](https://arxiv.org/abs/2203.02155), [DPO](https://arxiv.org/abs/2305.18290)
 
-Apr 14
+Apr 22
 : [Wrapup / Ethics](https://aritter.github.io/CS-4650-sp26/slides/lec18-wrapup_ethics.pdf)
+
+Apr 27
+: Guest Lecture by [Jiwei Li](https://scholar.google.com/citations?user=PwU16JEAAAAJ&hl=en).
+
+<!--
+
 
 Apr 16 (2pm)
 : Guest Lecture by [Elizabeth Clark](https://eaclark07.github.io/) (Google AI).  See announcement on Piazza for Zoom link.
