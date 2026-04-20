@@ -72,7 +72,7 @@ Apr 22
 : [Wrapup / Ethics](https://aritter.github.io/CS-4650-sp26/slides/lec18-wrapup_ethics.pdf)
 
 Apr 27
-: Guest Lecture by [Jiwei Li](https://scholar.google.com/citations?user=PwU16JEAAAAJ&hl=en).
+: Virtual Guest Lecture by [Jiwei Li](https://scholar.google.com/citations?user=PwU16JEAAAAJ&hl=en) (DeepReinforce).
 
 <!--
 
